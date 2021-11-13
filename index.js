@@ -133,9 +133,9 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "916909137213"; 
-owner = "916909137213"; 
-fakeyoi = "Xeon"; 
+targetpc = "919411100494"; 
+owner = "919411100494"; 
+fakeyoi = "Chintu WhiteHat Jr"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -944,7 +944,7 @@ sendEphemeral: false,
                 "title": `Whatsapp-BOT\n𝐃𝐨𝐠𝐞 𝐁𝐨𝐭. (@nnda.krnwn_) •Instagram photos and Videos`,
                 "body": "",
                 "previewType": "PHOTO",
-                "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
+                "thumbnailUrl": "https://www.linkpicture.com/q/PicsArt_11-13-03.34.22.jpg",
                 "thumbnail": fake,
                 "sourceUrl": ``
 },mentionedJid:[sender]}, quoted : fgif})
@@ -959,7 +959,7 @@ sendEphemeral: false,
                 "body": `wa.me/916909137213`,
                 "mediaType": "10",
                 "mediaUrl": `wa.me/916909137213`,
-                "thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
+                "thumbnailUrl": "https://www.linkpicture.com/q/PicsArt_11-13-03.34.22.jpg",
                 "thumbnail": iye,
                 "sourceUrl": `wa.me/916909137213`,
 },mentionedJid:[sender]}, quoted : mek})
@@ -973,8 +973,8 @@ sendEphemeral: false,
 "title": `Hello ${pushname}` ,
 "body": `${ucapanWaktu}`,
 "mediaType": "2",
-"thumbnailUrl": "https://i.ibb.co/y0RYgzB/FB-IMG-1635413002830.jpg",
-"mediaUrl": "https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A",
+"thumbnailUrl": "https://www.linkpicture.com/q/PicsArt_11-13-03.34.22.jpg",
+"mediaUrl": "https://youtube.com/channel/UCi-zjDoJwdrQ3hklCA_btNQ",
 "thumbnail": fs.readFileSync('./stik/thumb.jpeg'),
 "sourceUrl": "",
 },mentionedJid:[sender]}, quoted : fgif})
@@ -1731,7 +1731,7 @@ reply(`${mek.quoted.caption}`)
 break
 case 'iggw':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
-  reply('https://www.instagram.com/josephxeon13/')
+  reply('https://www.instagram.com/_ig_escanor/')
 break
    
 case 'owner':
