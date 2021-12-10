@@ -1,42 +1,4 @@
-// Script by Xeon 
-// Developed By Chintu
-// ©Xeon Bot Incorporated
-const {
-  WAConnection: _WAConnection,
-  MessageType,
-  Presence,
-  MessageOptions,
-  Mimetype,
-  MimetypeMap,
-  WALocationMessage,
-  ChatModification,
-  WA_MESSAGE_STUB_TYPES,
-  WA_DEFAULT_EPHEMERAL,
-  ReclientectMode,
-  ProxyAgent,
-  GroupSettingChange,
-  waChatKey,
-  mentionedJid,
-  processTime,
-} = require("@adiwajshing/baileys");
-const simple = require("./lib/simple.js");
-const { virtex, vipi } = require("./lib/virtex.js"); 
-const { Toxic } = require('./lib/Toxic.js')
-const hx = require("hxz-api");
-const qrcode = require("qrcode-terminal");
-const moment = require("moment-timezone");
-const speed = require("performance-now");
-const request = require("request");
-const { spawn, exec, execSync } = require("child_process");
-const fs = require("fs");
-const axios = require("axios");
-const ffmpeg = require("fluent-ffmpeg");
-const { EmojiAPI } = require("emoji-api");
-const ig = require("insta-fetcher");
-const emoji = new EmojiAPI();
-const fetch = require("node-fetch");
-const FormData = require("form-data");
-const phoneNum = require("awesome-phonenumber");// Script by Abhishek
+// Script by Abhishek
 // 𝐂𝐡𝐢𝐧𝐭𝐮'𝐬 𝐁𝐨𝐭
 // ©Xeon Bot Incorporated
 const {
